@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## v0.3.2-security-policy (2026-11-21)
+
+Fork of `causa-io/terraform-google-api-router` v0.3.2.
+
 Features:
 
 - Support setting a Cloud Armor security policy on the backend service of each Cloud Run service.
